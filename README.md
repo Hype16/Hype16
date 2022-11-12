@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Harshit Pathak
-- 👀 I’m interested in Java Programing and Web development 
-- 🌱 I’m currently learning Java Programming
-- 💞️ I’m looking to collaborate on Projects on Web D or Java
+- 👀 I’m interested in Python Programing ,Problem Solving , DSA , Machine Learning ,
+     and Web development 
+- 🌱 I’m currently learning Python Programming
+- 💞️ I’m looking to collaborate on Projects on Web D or Python 
 - 📫 My Email is - harshitpathak334@gmail.com
 
 <!---
